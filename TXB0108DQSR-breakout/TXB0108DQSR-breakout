@@ -1,0 +1,25 @@
+"Source:","/home/lorforlinux/Documents/Upside Down Labs Store/Github/udlabs-TXB0108/TXB0108DQSR-breakout/TXB0108DQSR-breakout.sch"
+"Date:","Tue 03 Nov 2020 03:45:54 PM IST"
+"Tool:","Eeschema 5.1.7-1.fc32"
+"Generator:","/usr/share/kicad/plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","C1","100nf","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
+"","","C2","100nf","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
+"","","J1","Conn_01x10_Male","Connector:Conn_01x10_Male","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical","~"
+"","","J2","Conn_01x10_Male","Connector:Conn_01x10_Male","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical","~"
+"","","R1","10k","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
+"","","U1","TXB0108DQSR","Logic_LevelTranslator:TXB0108DQSR","Package_SON:USON-20_2x4mm_P0.4mm","http://www.ti.com/lit/ds/symlink/txb0108.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","2","C1, C2","100nf","Device:C","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","~"
+"2","2","J1, J2","Conn_01x10_Male","Connector:Conn_01x10_Male","Connector_PinHeader_2.54mm:PinHeader_1x10_P2.54mm_Vertical","~"
+"3","1","R1","10k","Device:R","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","~"
+"4","1","U1","TXB0108DQSR","Logic_LevelTranslator:TXB0108DQSR","Package_SON:USON-20_2x4mm_P0.4mm","http://www.ti.com/lit/ds/symlink/txb0108.pdf"
