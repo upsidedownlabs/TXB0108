@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 28)
+    (drawings 29)
     (tracks 105)
     (zones 0)
     (modules 8)
@@ -1164,6 +1164,9 @@
     )
   )
 
+  (gr_text "Ver 0.1" (at 147.447 96.4946 180) (layer B.SilkS) (tstamp 5FA1AE3F)
+    (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
+  )
   (gr_text "NOV 2020" (at 147.2946 74.6252 180) (layer B.SilkS) (tstamp 5FA1ACFA)
     (effects (font (size 0.75 0.75) (thickness 0.15)) (justify mirror))
   )
